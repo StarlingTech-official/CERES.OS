@@ -26,6 +26,7 @@ Parts used to create prototype are available in Parts folder
 ESP32-C3 microcontroller, 128x64 I2C OLED display (SH1106G), Active Buzzer, and standard push buttons.  
 <img width="1132" height="599" alt="smartwach_circuit" src="https://github.com/user-attachments/assets/19b7ccc3-ed1e-4bd2-b609-7dbe81aa84dc" />
 
+Circuit was made using https://app.cirkitdesigner.com 
 
 Core Libraries Required: Adafruit_SH110X, Adafruit_GFX, WiFiManager, ArduinoJson, Adafruit_NeoPixel, and LittleFS.  
 

@@ -21,7 +21,7 @@ Parts used to create prototype are available in Parts folder
 <img width="702" height="534" alt="prototype1" src="https://github.com/user-attachments/assets/2e700ae3-15ed-4b98-bc9e-9b3245e46eac" />
 <img width="838" height="896" alt="prototype 2" src="https://github.com/user-attachments/assets/02863117-2f23-4929-b5fe-0c20792d9f94" />
 
- # Technical Notes & Hardware Required Hardware: 
+ # Technical Notes & Hardware Required: 
 
 ESP32-C3 microcontroller, 128x64 I2C OLED display (SH1106G), Active Buzzer, and standard push buttons.  
 <img width="1132" height="599" alt="smartwach_circuit" src="https://github.com/user-attachments/assets/19b7ccc3-ed1e-4bd2-b609-7dbe81aa84dc" />

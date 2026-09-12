@@ -30,6 +30,8 @@ Circuit was made using https://app.cirkitdesigner.com
 
 Core Libraries Required: Adafruit_SH110X, Adafruit_GFX, WiFiManager, ArduinoJson, Adafruit_NeoPixel, and LittleFS.  
 
+My Esp32c3 had build in rgb led that interfered with other functions, that's why I added libraries to turn it off
+
 # Configuration and instalation: 
 Before flashing, set your default location coordinates (String latitude = "**.****"; String longitude = "**.****";) at the top of the main code file to fetch accurate weather data for your region.  
 Using Arduino IDE, change dev board options in tools to ones showed on image:
